@@ -1,1 +1,1 @@
-# Medical-Hospital
+# Medical Hospital
